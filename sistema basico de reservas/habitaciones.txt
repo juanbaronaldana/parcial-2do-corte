@@ -1,0 +1,2 @@
+sencilla,70000.0,4,2 camas dobles,2 ba�os internos,jacuzzi,minibar
+estandar,120000.0,8,4 camas dobles,cocina completa,piscina,terraza
